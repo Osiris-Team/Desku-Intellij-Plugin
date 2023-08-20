@@ -1,18 +1,18 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.osiristeam.deskuintellijplugin</id>
-    <name>Desku-Intellij-Plugin Template</name>
+    <name>Desku-Intellij-Plugin</name>
     <vendor>osiris-team</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
-    <resource-bundle>messages.MyBundle</resource-bundle>
-
-    <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.osiristeam.deskuintellijplugin.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
-    </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.osiristeam.deskuintellijplugin.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
-    </applicationListeners>
+    <actions>
+        <!-- Add the Desku Component action to the "New" menu -->
+        <action class="com.github.osiristeam.deskuintellijplugin.actions.DeskuComponentAction"
+                id="DeskuComponentActionInNewMenu"
+                text="Desku Component" description="Creates a new Desku Component"
+                icon="/icons/icon-16x16.png">
+            <add-to-group group-id="NewGroup" anchor="first"/>
+        </action>
+    </actions>
 </idea-plugin>
