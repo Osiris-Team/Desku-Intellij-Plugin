@@ -1,5 +1,6 @@
 <!-- Plugin description -->
 # Desku-Intellij-Plugin
+Develop faster with [Desku](https://github.com/Osiris-Team/Desku) inside Intellij.
 
 ![Build](https://github.com/Osiris-Team/Desku-Intellij-Plugin/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/22551.svg)](https://plugins.jetbrains.com/plugin/22551)
