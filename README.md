@@ -1,5 +1,5 @@
 <!-- Plugin description -->
-# Desku-Intellij-Plugin
+# Desku-Intellij-Plugin / Desku-Helper
 Develop faster with [Desku](https://github.com/Osiris-Team/Desku) inside Intellij.
 
 ![Build](https://github.com/Osiris-Team/Desku-Intellij-Plugin/workflows/Build/badge.svg)
@@ -23,7 +23,7 @@ Create a Desku Component with one click, and let the plugin generate the little 
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 <!-- Plugin description end -->
 
-## Developers
+## Developers  
 
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
