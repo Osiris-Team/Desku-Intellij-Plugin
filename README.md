@@ -14,6 +14,7 @@ Create a Desku Component with one click, and let the plugin generate the little 
 <!-- Plugin description -->
 ## Features
 Create a Desku Component with one click, and let the plugin generate the little boilerplate there is.
+<!-- Plugin description end -->
 
 ## Installation
 
@@ -26,7 +27,7 @@ Create a Desku Component with one click, and let the plugin generate the little 
 
   Download the [latest release](https://github.com/Osiris-Team/Desku-Intellij-Plugin/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
-<!-- Plugin description end -->
+
 
 ## Developers  
 
