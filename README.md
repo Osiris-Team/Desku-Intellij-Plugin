@@ -1,16 +1,21 @@
-<!-- Plugin description -->
+
 # Desku-Intellij-Plugin / Desku-Helper
 Develop faster with [Desku](https://github.com/Osiris-Team/Desku) inside Intellij.
 
 ![Build](https://github.com/Osiris-Team/Desku-Intellij-Plugin/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/22551.svg)](https://plugins.jetbrains.com/plugin/22551)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/22551.svg)](https://plugins.jetbrains.com/plugin/22551)
+[![Version](https://img.shields.io/jetbrains/plugin/v/22572.svg)](https://plugins.jetbrains.com/plugin/22572)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22572.svg)](https://plugins.jetbrains.com/plugin/22572)
 
 ## Features
 Create a Desku Component with one click, and let the plugin generate the little boilerplate there is.
 ![img.png](img.png)
 
-### Installation
+
+<!-- Plugin description -->
+## Features
+Create a Desku Component with one click, and let the plugin generate the little boilerplate there is.
+
+## Installation
 
 - Using the IDE built-in plugin system:
   
